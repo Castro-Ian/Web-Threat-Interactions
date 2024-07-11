@@ -1,9 +1,9 @@
-## Description
+## Web-threat-Interactions
 
 This project aims to analyze web traffic data to identify and predict suspicious activities. The following steps are performed in the script:
 
 1. **Load and Preprocess Data:**
-   - Load the web traffic data from a CSV file.
+   - Load the web traffic data from a CSV file CloudWatch_Traffic_Web_Attack.
    - Convert timestamp columns to datetime format.
    - Set the timestamp column as the index for time series analysis.
    - Remove duplicate rows and standardize text data.
